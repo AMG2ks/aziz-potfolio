@@ -210,7 +210,7 @@ const projects = [
   {
     name: "BerrySign",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "berrySign is a digital signature platform that allows users to sign documents electronically, streamlining the document signing process and reducing paper waste.",
     tags: [
       {
         name: "Django",
