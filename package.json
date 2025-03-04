@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package.json",
   "name": "aziz-potfolio",
   "homepage": "https://amg2ks.github.io/aziz-potfolio/",
   "version": "0.0.0",
