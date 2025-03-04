@@ -1,7 +1,6 @@
 {
   "name": "aziz-protfolio",
   "homepage": "https://amg2ks.github.io/aziz-potfolio/",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
